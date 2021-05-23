@@ -66,7 +66,7 @@ def chat_list(update, context):
 def owner(update, context):
     bot.send_message(update.message.chat_id,
     reply_to_message_id=update.message.message_id,
-    text="Owner: https://t.me/oViNc", disable_web_page_preview=True)
+    text="🙏", disable_web_page_preview=True)
 
 
 @run_async
