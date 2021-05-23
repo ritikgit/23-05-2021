@@ -166,7 +166,7 @@ def main():
     dispatcher.add_handler(start_handler)
     dispatcher.add_handler(ping_handler)
     dispatcher.add_handler(restart_handler)
-    dispatcher.add_handler(help_handler)
+    
     dispatcher.add_handler(stats_handler)
     dispatcher.add_handler(log_handler)
     dispatcher.add_handler(owner_handler)
