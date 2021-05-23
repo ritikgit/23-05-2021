@@ -149,4 +149,3 @@ def searchhelp(update, context):
     
     
 SEARCHHELP_HANDLER = CommandHandler("tshelp", searchhelp)
-dispatcher.add_handler(SEARCHHELP_HANDLER)
