@@ -457,9 +457,9 @@ STICKERS_HANDLER = CommandHandler("stickers", cb_sticker)
 STICKHELP_HANDLER = CommandHandler("stickerhelp", stickhelp)
 
 
-dispatcher.add_handler(STICKERS_HANDLER)
-dispatcher.add_handler(STICKERID_HANDLER)
-dispatcher.add_handler(GETSTICKER_HANDLER)
-dispatcher.add_handler(KANG_HANDLER)
-dispatcher.add_handler(DEL_HANDLER)
-dispatcher.add_handler(STICKHELP_HANDLER)
+
+dis
+
+
+
+
