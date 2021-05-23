@@ -458,7 +458,7 @@ STICKHELP_HANDLER = CommandHandler("stickerhelp", stickhelp)
 
 
 
-dis
+
 
 
 
